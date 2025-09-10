@@ -1,0 +1,23 @@
+[33mcommit 3ff0f6dfe420d6b864271a2f4f9bbde31347c962[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Lee, Hakjun <ehjun32@gamil.com>
+Date:   Wed Sep 10 15:17:43 2025 +0900
+
+    Main.java 수정
+
+[33mcommit cff0626f1b2547061c71d1c259152ea14106f65a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Lee, Hakjun <ehjun32@gamil.com>
+Date:   Wed Sep 10 06:44:47 2025 +0900
+
+    Hello 클래스에 message 멤버 변수에 추가
+
+[33mcommit 0baaeb77c5cf89c91d0d8412851d6c3a9cae03cd[m
+Author: Lee, Hakjun <ehjun32@gamil.com>
+Date:   Wed Sep 10 06:21:47 2025 +0900
+
+    출력 메시지 수정
+
+[33mcommit 4fa4cab3f7a8fcc92189ad6c9708232f3f0c3d3f[m
+Author: Lee, Hakjun <ehjun32@gamil.com>
+Date:   Wed Sep 10 06:19:41 2025 +0900
+
+    최초 커밋
